@@ -33,3 +33,4 @@ export const VERSION = "0.1.0";
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
 // clarify the control flow
+// guard against empty input
