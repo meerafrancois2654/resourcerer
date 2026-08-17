@@ -1,6 +1,6 @@
 {
   "name": "resourcerer",
-  "version": "0.1.52",
+  "version": "0.1.53",
   "description": "Declarative data-fetching and caching framework for REST APIs with React",
   "main": "src/index.js",
   "scripts": {
